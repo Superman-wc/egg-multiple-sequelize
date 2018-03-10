@@ -1,9 +1,9 @@
 {
   "name": "egg-multiple-sequelize",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "egg Sequelize plugin",
   "eggPlugin": {
-    "name": "multiple-sequelize"
+    "name": "multipleSequelize"
   },
   "keywords": [
     "egg",
